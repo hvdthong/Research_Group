@@ -20,5 +20,7 @@ for i in range(X.shape[1]):
 print sorted(scores, reverse=True)
 
 print 'Only for testing Github'
+print 'Only for testing Github -- using git bash'
+print 'now we have to say'
 
 
