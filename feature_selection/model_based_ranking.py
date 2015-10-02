@@ -19,4 +19,6 @@ for i in range(X.shape[1]):
      scores.append((round(np.mean(score), 3), names[i]))
 print sorted(scores, reverse=True)
 
+print 'Only for testing Github'
+
 
