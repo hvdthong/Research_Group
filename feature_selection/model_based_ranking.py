@@ -23,4 +23,6 @@ print 'Only for testing Github'
 print 'Only for testing Github -- using git bash'
 print 'now we have to say'
 
+print 'hello, this software is great'
+
 
